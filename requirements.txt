@@ -1,0 +1,50 @@
+# Core Dependencies
+requests>=2.31.0
+psutil>=5.9.0
+cryptography>=41.0.0
+pyshorteners>=1.0.1
+qrcode>=7.4.2
+python-whois>=0.8.0
+ipaddress>=1.0.23
+
+# Platform Dependencies
+discord.py>=2.3.0
+telethon>=1.34.0
+selenium>=4.15.0
+slack-sdk>=3.22.0
+paramiko>=3.3.0
+scapy>=2.5.0
+
+# WebDriver Manager (Optional)
+webdriver-manager>=4.0.1
+
+# Additional Tools
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+colorama>=0.4.6
+tqdm>=4.66.0
+termcolor>=2.3.0
+
+# Network Tools
+dnspython>=2.4.0
+netaddr>=0.9.0
+
+# Database
+sqlite3
+
+# Reporting
+jinja2>=3.1.0
+markdown>=3.5.0
+
+# Async Support
+aiohttp>=3.9.0
+asyncio
+
+# QR Code
+Pillow>=10.0.0
+
+# Crypto
+pycryptodome>=3.19.0
+
+# API Clients
+google-api-python-client>=2.108.0

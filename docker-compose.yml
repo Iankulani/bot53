@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  bot53:
+    build: .
+    container_name: bot53
+    hostname: bot53
+    stdin_open: true
+    tty: true
+    privileged: true
+    network_mode: host
+    volumes:
+      # Persist data
+      - bot53_data:/home/bot53/.bot53
+      - bot53_reports:/home/bot53/bot53_reports
+      # Mount network interfaces
+      - /sys/class/net:/sys/class/net:ro
+      # Mount for packet capture
+      - /dev/net/tun:/dev/net/tun
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+      - SYS_ADMIN
+      - SYS_PTRACE
+      - SYS_MODULE
+    devices:
+      - /dev/net/tun
+    security_opt:
+      - apparmor:unconfined
+    environment:
+      - DISPLAY=${DISPLAY:-:0}
+      - QT_X11_NO_MITSHM=1
+    # Uncomment for GUI support (X11 forwarding)
+    # volumes:
+    #   - /tmp/.X11-unix:/tmp/.X11-unix:rw
+    #   - ${HOME}/.Xauthority:/home/bot53/.Xauthority:ro
+
+volumes:
+  bot53_data:
+  bot53_reports:
