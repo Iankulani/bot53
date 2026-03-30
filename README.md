@@ -1,5 +1,8 @@
 # bot53
 
+<img width="524" height="536" alt="bott" src="https://github.com/user-attachments/assets/1c8a5230-1d29-49e9-aaec-bd60f2ea3f9b" />
+
+
 
 Bot 53 is a comprehensive, multi-platform command-and-control (C2) simulation framework designed to demystify and demonstrate the mechanics of IP spoofing and DNS manipulation. It bridges the gap between theoretical network knowledge and practical application, offering a legal, controlled environment for network engineers, students, and seasoned cybersecurity professionals to test, learn, and harden their infrastructures against spoofing attacks.
 
