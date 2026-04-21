@@ -95,3 +95,4 @@ cd bot53
 ```bash
 python bot53.py
 ```
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/bot53&type=Date)](https://star-history.com/#Iankulani/bot53&Date)
