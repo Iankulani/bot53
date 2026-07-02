@@ -2,7 +2,14 @@
 
 <img width="524" height="536" alt="bott" src="https://github.com/user-attachments/assets/1c8a5230-1d29-49e9-aaec-bd60f2ea3f9b" />
 
-
+[![GitHub stars](https://img.shields.io/github/stars/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Iankulani/bot53?style=for-the-badge&logo=git)](https://github.com/Iankulani/bot53/commits/main)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Iankulani/bot53)
+[![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 Bot 53 is a comprehensive, multi-platform command-and-control (C2) simulation framework designed to demystify and demonstrate the mechanics of IP spoofing and DNS manipulation. It bridges the gap between theoretical network knowledge and practical application, offering a legal, controlled environment for network engineers, students, and seasoned cybersecurity professionals to test, learn, and harden their infrastructures against spoofing attacks.
 
