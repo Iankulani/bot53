@@ -1,6 +1,6 @@
 # bot53
 
-<img width="524" height="536" alt="bott" src="https://github.com/user-attachments/assets/1c8a5230-1d29-49e9-aaec-bd60f2ea3f9b" />
+<img width="360" height="360" alt="bott" src="https://github.com/user-attachments/assets/1c8a5230-1d29-49e9-aaec-bd60f2ea3f9b" />
 
 [![GitHub stars](https://img.shields.io/github/stars/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Iankulani/bot53?style=for-the-badge&logo=github)](https://github.com/Iankulani/bot53/network)
@@ -14,11 +14,13 @@
 Bot 53 is a comprehensive, multi-platform command-and-control (C2) simulation framework designed to demystify and demonstrate the mechanics of IP spoofing and DNS manipulation. It bridges the gap between theoretical network knowledge and practical application, offering a legal, controlled environment for network engineers, students, and seasoned cybersecurity professionals to test, learn, and harden their infrastructures against spoofing attacks.
 
 The Core Philosophy: Education Through Simulation
+
 Bot 53 was built on a singular principle: to demonstrate how trust relationships in network protocols can be exploited. Unlike malicious tools that obscure their functionality, Bot 53 is transparent. It serves as a pedagogical instrument, allowing users to visualize the packet-level changes required to alter a packet’s perceived origin and to intercept or manipulate DNS queries in real time.
 
 The tool is designed to simulate the behavior of a malicious actor without requiring the user to manage complex, fragmented open-source libraries. By consolidating these capabilities into a single, unified interface, Bot 53 allows professionals to focus on the defensive implications—crafting firewall rules, configuring intrusion detection systems (IDS), and analyzing logs—rather than struggling with toolchain compatibility.
 
-Feature 1: Advanced IP Spoofing Capabilities
+# Feature 1: Advanced IP Spoofing Capabilities
+
 At the heart of Bot 53 lies its robust IP spoofing engine. IP spoofing, the act of crafting packets with a falsified source IP address, remains a critical vector for Denial-of-Service (DoS) attacks and evasion techniques. Bot 53 allows users to safely execute spoofing within isolated lab environments to understand how these packets traverse networks.
 
 The tool leverages raw socket programming and packet injection libraries (such as Scapy or libnet) to allow the user to craft packets with arbitrary source addresses. However, Bot 53 is not merely a packet generator; it includes intelligent spoofing logic.
