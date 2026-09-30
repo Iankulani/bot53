@@ -1,4 +1,5 @@
 # bot53
+<div align="center">
 
 <img width="360" height="360" alt="bott" src="https://github.com/user-attachments/assets/1c8a5230-1d29-49e9-aaec-bd60f2ea3f9b" />
 
@@ -10,6 +11,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Iankulani/bot53)
 [![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+</div>
 
 Bot 53 is a comprehensive, multi-platform command-and-control (C2) simulation framework designed to demystify and demonstrate the mechanics of IP spoofing and DNS manipulation. It bridges the gap between theoretical network knowledge and practical application, offering a legal, controlled environment for network engineers, students, and seasoned cybersecurity professionals to test, learn, and harden their infrastructures against spoofing attacks.
 
