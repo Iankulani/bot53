@@ -16,7 +16,7 @@
 
 Bot 53 is a comprehensive, multi-platform command-and-control (C2) simulation framework designed to demystify and demonstrate the mechanics of IP spoofing and DNS manipulation. It bridges the gap between theoretical network knowledge and practical application, offering a legal, controlled environment for network engineers, students, and seasoned cybersecurity professionals to test, learn, and harden their infrastructures against spoofing attacks.
 
-The Core Philosophy: Education Through Simulation
+# The Core Philosophy: Education Through Simulation
 
 Bot 53 was built on a singular principle: to demonstrate how trust relationships in network protocols can be exploited. Unlike malicious tools that obscure their functionality, Bot 53 is transparent. It serves as a pedagogical instrument, allowing users to visualize the packet-level changes required to alter a packet’s perceived origin and to intercept or manipulate DNS queries in real time.
 
